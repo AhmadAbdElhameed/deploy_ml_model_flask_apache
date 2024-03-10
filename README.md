@@ -54,9 +54,9 @@ docker run -d -p 8000:8000 flask-predict-api
 
 ## Project Structure
 
-    ** predict_flask_api.py **: Main Flask application file.
-    ** predict_flask_api.wsgi **: WSGI script file for mod_wsgi.
-    **requirements.txt**: List of Python dependencies.
-    **README.md**: Project documentation.
-    **Dockerfile**: to continized your app
-    **rf.pkl**: model file
+**predict_flask_api.py**: Main Flask application file.
+**predict_flask_api.wsgi**: WSGI script file for mod_wsgi.
+**requirements.txt**: List of Python dependencies.
+**README.md**: Project documentation.
+**Dockerfile**: to continized your app
+**rf.pkl**: model file
